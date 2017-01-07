@@ -1,3 +1,5 @@
+# include "function.h"
+
 int isPrime(int n) {
   int output = 1;
   if (n == 0 || n == 1) output = 0;
